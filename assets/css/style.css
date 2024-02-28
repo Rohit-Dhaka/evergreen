@@ -221,8 +221,8 @@
     max-width: 448px;
 }
 
-.max-w-342 {
-    max-width: 342px;
+.max-w-3 {
+    max-width: 380px !important;
 }
 
 .max-w-548 {
@@ -336,7 +336,7 @@
 	position:absolute; z-index: 100;}
 .container-preloader .animation-preloader .spinner {
   animation: spinner 1s infinite linear;
-	border-radius: 50%;  border: 10px solid #88C701;  
+	border-radius: 50%;  border: 10px solid white;  
   height: 9em;  margin: 0 auto 3.5em auto; width: 9em;
 }
 
